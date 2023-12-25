@@ -1,6 +1,8 @@
 # Movie Streaming Website  🎬
 
 Are you a movie maniac, who loves to binge-watch awesome movies & series? If Yes, then you have come to the right place.
+![pormpt](./ภาพหน้าจอ.png)
+
 <p align="center"><img src="https://noelalanaleon.files.wordpress.com/2015/06/tyrion-29.gif" width = 70%></p>
 
 Everyone loves to watch their favorite shows with friends and some snacks. But there is something that you might be missing out on!
